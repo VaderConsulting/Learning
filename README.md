@@ -27,4 +27,4 @@ Working copy from my Development folder `Learning`.
 
 ## License
 
-MIT (VaderConsulting 2026)
+MIT (Vader Consulting 2026)
